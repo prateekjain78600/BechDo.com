@@ -1,0 +1,11 @@
+.SignUp_form{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin: auto;
+    /* background-color: wheat;
+    box-shadow: 2rem 2.5rem 2rem solid #f5; */
+}
+.SignUp_form>input{
+    margin-bottom: 1.5rem;
+}
